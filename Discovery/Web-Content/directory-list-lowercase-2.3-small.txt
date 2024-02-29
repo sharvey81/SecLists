@@ -20,6 +20,10 @@ news
 crack
 serial
 warez
+metrics
+support
+logs
+support/logs
 full
 12
 contact
